@@ -7,7 +7,7 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
-
+[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1.svg)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1)
 ---
 
 ## Description
