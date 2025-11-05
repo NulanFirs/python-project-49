@@ -1,18 +1,26 @@
+# python-package
+## Description
+
+Приложение **Brain Games** — консольная игра, которая приветствует пользователя и просит его ответить на вопросы.
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/NulanFirs/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NulanFirs/python-project-49/actions)
 
-# python-package
+---
+
+##Game Demostration
+
+[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1.svg)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1)
+[![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1)
+
+---
+## Code Quality
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
-[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1.svg)](https://asciinema.org/connect/7b9a52af-173a-489d-a7f9-29a3fac801e1)
 ---
-
-## Description
-
-Приложение **Brain Games** — консольная игра, которая приветствует пользователя и ...
 
 
 ### Setup
