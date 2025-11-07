@@ -14,6 +14,7 @@
 [![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP.svg)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP)
 [![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe.svg)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe)
 [![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA.svg)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA)
+[![Demonstration of the game Brain Prime (victory and defeat)](https://asciinema.org/a/ksR9pPD4tsna8Y6JoLKLCG0pG.svg)](https://asciinema.org/a/ksR9pPD4tsna8Y6JoLKLCG0pG)
 
 ---
 ## Code Quality
