@@ -13,6 +13,7 @@
 [![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/UmaiQgHWigD46QGPUfGkzYthO.svg)](https://asciinema.org/a/UmaiQgHWigD46QGPUfGkzYthO)
 [![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP.svg)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP)
 [![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe.svg)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe)
+[![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA.svg)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA)
 
 ---
 ## Code Quality
