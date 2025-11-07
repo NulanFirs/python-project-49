@@ -1,5 +1,5 @@
-import random
 import math
+import random
 
 GAME_DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
