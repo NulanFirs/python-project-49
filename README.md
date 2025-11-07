@@ -10,11 +10,11 @@
 
 ##Game Demostration
 
-[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/UmaiQgHWigD46QGPUfGkzYthO.svg)](https://asciinema.org/a/UmaiQgHWigD46QGPUfGkzYthO)
-[![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP.svg)](https://asciinema.org/a/jf0Ukp5Fwd7BfUqR7rJSVGmfP)
-[![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe.svg)](https://asciinema.org/a/GpbbyLlQZrlDBV1Lc6tCHouhe)
-[![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA.svg)](https://asciinema.org/a/QwcxaAqGlEKTAqsSDfFSHBHDA)
-[![Demonstration of the game Brain Prime (victory and defeat)](https://asciinema.org/a/ksR9pPD4tsna8Y6JoLKLCG0pG.svg)](https://asciinema.org/a/ksR9pPD4tsna8Y6JoLKLCG0pG)
+[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/ErgioMbeyBWj15wl58tYVzmde.svg)](https://asciinema.org/a/ErgioMbeyBWj15wl58tYVzmde)
+[![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/EkmkDybjJ08SaKEaa4vaooPR5.svg)](https://asciinema.org/a/EkmkDybjJ08SaKEaa4vaooPR5)
+[![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/GlCoXvoNu66X3GHJvvNNHL2jh.svg)](https://asciinema.org/a/GlCoXvoNu66X3GHJvvNNHL2jh)
+[![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/EGag6nfDrHqCh82oeV0Vy9ILi.svg)](https://asciinema.org/a/EGag6nfDrHqCh82oeV0Vy9ILi)
+[![Demonstration of the game Brain Prime (victory and defeat)](https://asciinema.org/a/3KFF2yGCQwrtool2xVOnMmM1U.svg)](https://asciinema.org/a/3KFF2yGCQwrtool2xVOnMmM1U)
 
 ---
 ## Code Quality
