@@ -29,5 +29,6 @@
 ### Setup
 
 ```bash
-make install
+make build
+make package-install
 ```
