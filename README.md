@@ -1,4 +1,11 @@
 # python-package
+
+## Code Quality
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
 ## Description
 
 Приложение **Brain Games** — консольная игра, которая приветствует пользователя и просит его ответить на вопросы.
@@ -10,21 +17,13 @@
 
 ##Game Demostration
 
-[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/ErgioMbeyBWj15wl58tYVzmde.svg)](https://asciinema.org/a/ErgioMbeyBWj15wl58tYVzmde)
-[![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/EkmkDybjJ08SaKEaa4vaooPR5.svg)](https://asciinema.org/a/EkmkDybjJ08SaKEaa4vaooPR5)
-[![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/GlCoXvoNu66X3GHJvvNNHL2jh.svg)](https://asciinema.org/a/GlCoXvoNu66X3GHJvvNNHL2jh)
-[![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/EGag6nfDrHqCh82oeV0Vy9ILi.svg)](https://asciinema.org/a/EGag6nfDrHqCh82oeV0Vy9ILi)
-[![Demonstration of the game Brain Prime (victory and defeat)](https://asciinema.org/a/3KFF2yGCQwrtool2xVOnMmM1U.svg)](https://asciinema.org/a/3KFF2yGCQwrtool2xVOnMmM1U)
+[![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/e0qJ5kPoLNOwmUuJTmgkHcVKj.svg)](https://asciinema.org/a/e0qJ5kPoLNOwmUuJTmgkHcVKj)
+[![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/6KOHomex7AGSfj7Ivm3yyQT2s.svg)](https://asciinema.org/a/6KOHomex7AGSfj7Ivm3yyQT2s)
+[![Demonstration of the game Brain Gsd (victory and defeat)](https://asciinema.org/a/m7gaDhRAYZtJs1eNDwYstUbFB.svg)](https://asciinema.org/a/m7gaDhRAYZtJs1eNDwYstUbFB)
+[![Demonstration of the game Brain Progression (victory and defeat)](https://asciinema.org/a/HghJjD8a0Iy410x6ObmKpBgkc.svg)](https://asciinema.org/a/HghJjD8a0Iy410x6ObmKpBgkc)
+[![Demonstration of the game Brain Prime (victory and defeat)](https://asciinema.org/a/YfmzqOD7UgbGEZYubN9S9EmOj.svg)](https://asciinema.org/a/YfmzqOD7UgbGEZYubN9S9EmOj)
 
 ---
-## Code Quality
-
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NulanFirs_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NulanFirs_python-project-49)
----
-
 
 ### Setup
 
