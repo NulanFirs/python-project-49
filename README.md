@@ -15,7 +15,7 @@
 
 ---
 
-##Game Demostration
+## Game Demostration
 
 [![Demonstration of the game Brain Even (victory and defeat)](https://asciinema.org/a/e0qJ5kPoLNOwmUuJTmgkHcVKj.svg)](https://asciinema.org/a/e0qJ5kPoLNOwmUuJTmgkHcVKj)
 [![Demonstration of the game Brain Calc (victory and defeat)](https://asciinema.org/a/6KOHomex7AGSfj7Ivm3yyQT2s.svg)](https://asciinema.org/a/6KOHomex7AGSfj7Ivm3yyQT2s)
